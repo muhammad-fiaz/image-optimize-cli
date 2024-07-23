@@ -1,1 +1,1 @@
-export * from './optimized-image.component'
+export * from '@/angular/optimized-image.component'

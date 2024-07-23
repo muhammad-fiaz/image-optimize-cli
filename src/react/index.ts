@@ -1,1 +1,1 @@
-export { default as OptimizedImage } from './OptimizedImage'
+export { default as OptimizedImage } from '@/react/OptimizedImage'

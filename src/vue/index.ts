@@ -1,1 +1,1 @@
-export * from './OptimizedImage.vue'
+export * from '@/vue/OptimizedImage.vue'

@@ -1,3 +1,3 @@
 // src/index.ts
 
-export { optimizeImage } from './optimizer'
+export { optimizeImage } from '@/optimizer'
